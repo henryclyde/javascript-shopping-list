@@ -1,0 +1,11 @@
+li {
+    margin-bottom: 10px;
+    list-style-type: none;
+}
+
+li button {
+    font-size: 12px;
+    margin-left: 20px;
+    color: #666;
+}
+
